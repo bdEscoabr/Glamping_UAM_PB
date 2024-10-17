@@ -20,5 +20,6 @@ class DatabaseSeeder extends Seeder
             UserSeeder::class,
             CabinLevelSeeder::class,
         ]);
+
     }
 }
